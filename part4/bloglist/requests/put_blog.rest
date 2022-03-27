@@ -1,0 +1,8 @@
+PUT http://localhost:3003/api/blogs/61d78fa101bd1fa6d0ec4544
+
+{
+  "title": "TEST",
+  "author": "aaaa",
+  "url": "TESTy.com",
+  "likes": 514
+}
